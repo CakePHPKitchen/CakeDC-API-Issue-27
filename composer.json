@@ -11,7 +11,7 @@
         "cakephp/migrations": "~1.0",
         "cakephp/plugin-installer": "~1.0",
         "cakedc/users": "^5.0",
-        "cakedc/cakephp-api": "dev-master"
+        "cakedc/cakephp-api": "^3.3"
     },
     "require-dev": {
         "psy/psysh": "@stable",

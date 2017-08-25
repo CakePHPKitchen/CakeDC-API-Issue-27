@@ -6,6 +6,9 @@ Steps to reproduce locally....
     git clone https://github.com/CakePHPKitchen/CakeDC-API-Issue-27.git
     cd CakeDC-API-Issue-27
     composer install
+
+Then 
+
     bin/cake server -p 9001
 
 Then navigate to 
